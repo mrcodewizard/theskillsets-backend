@@ -1,0 +1,21 @@
+﻿{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "theskillsets"
+  },
+  "secret": "xmW(75meeja)fj$&T9g+J#NHXeWK!56NtKNQVCK2wCCIqbZ8&%ZzdMGef*j((",
+  "emailFrom": "tkashi328@gmail.com",
+  "smtpOptions": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "cyrus.abshire48@ethereal.email",
+      "pass": "PUuDTqky5KfWNEjwmQ"
+    }
+  }
+}
+
+// mysql-w01y:3306
